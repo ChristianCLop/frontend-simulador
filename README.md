@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="http://nestjs.com/" target="blank"><img src="public/img/logoApp.png" width="200" alt="Nest Logo" /></a>
+  <a  target="blank"><img src="public/img/logoApp.png" width="200" /></a>
 </p>
 
 # CrediPlan 
