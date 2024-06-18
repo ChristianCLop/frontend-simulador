@@ -1,4 +1,6 @@
-![Logo](public/img/logoApp.png)
+<p align="center">
+  <a href="http://nestjs.com/" target="blank"><img src="public/img/logoApp.png" width="200" alt="Nest Logo" /></a>
+</p>
 
 # CrediPlan 
 
