@@ -236,7 +236,7 @@ export default function Admin() {
                                 </button>
                             </a>
                         </div>
-                        <h1 className="text-white font-serif font-extrabold text-2xl">Simula tu inversión!!</h1>
+                        <h1 className="text-white font-serif font-extrabold text-2xl">Simula tu credito!!</h1>
                         <div className='flex flex-col'>
                             {/* BANCO */}
                             <div className='basis-1/2'>
