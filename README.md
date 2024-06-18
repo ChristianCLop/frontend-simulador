@@ -35,19 +35,11 @@ Start the server
   npm run dev
 ```
 
-
 ## Features
 
 - Bank administration
-    - Add banks
-    - Modify interest rate
-    - CRUD of Credit types
-    - CRUD of Indirects Charges
 - Credit Simulation
-    - Select type of amortization systems
-    - PDF download
 - Investment Simulation
-    - PDF download
 
 ## Screenshots
 ### Login
