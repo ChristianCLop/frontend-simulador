@@ -1,34 +1,24 @@
-# CrediPlan
+![Logo](public/img/logoApp.png)
 
-![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
+# CrediPlan 
 
 A payment table simulator with two amortization systems: French and German
 ## Tech Stack
 
 **Client:** Next.js, TailwindCSS, HTML
 
-
-## Environment Variables
-
-To run this project, you will need to add the following environment variables to your .env file
-
-`PAYPAL_API_SECRET`
-
-`PAYPAL_API_CLIENT`
-
-
 ## Run Locally
 
 Clone the project
 
 ```bash
-  git clone https://github.com/ChristianCLop/DealDash-Ecommerce-Frontend.git
+  git clone https://github.com/ChristianCLop/frontend-simulador.git
 ```
 
 Go to the project directory
 
 ```bash
-  cd DealDash-Ecommerce-Frontend
+  cd frontend-simulador
 ```
 
 Install dependencies
@@ -58,8 +48,17 @@ Start the server
     - PDF download
 
 ## Screenshots
+### Login
+![App Screenshot](public/imgs/login.png)
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+### Admin dashboard
+![App Screenshot](public/imgs/admin.png)
+
+### Credit Simulator
+![App Screenshot](public/imgs/credit.png)
+
+### Investment Simulator
+![App Screenshot](public/imgs/investment.png)
 
 
 ## Authors
@@ -68,8 +67,11 @@ Start the server
 
 
 ## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+[![portfolio](https://img.shields.io/badge/Mi_Portafolio-000?style=flat&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/christianchicolópez)
+
+[![outlook](https://img.shields.io/badge/Microsoft_Outlook-blue?style=flat-square&logo=microsoft-outlook&logoColor=white)](mailto:christian.chico@hotmail.com)
 
 ## Feedback
 
